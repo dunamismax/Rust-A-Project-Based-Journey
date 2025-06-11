@@ -1,0 +1,15 @@
+[package]
+name = "12_modulesandcrates"
+version = "0.1.0"
+edition = "2021"
+authors = ["dunamismax <dunamismax@tutamail.com>"]
+description = "Lesson 12: Organizing large projects with modules and using third-party libraries from crates.io."
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+# We are adding a dependency on the `rand` crate.
+# When we run `cargo build` or `cargo run`, Cargo will automatically download
+# and compile this library for us.
+rand = "0.9.1"
