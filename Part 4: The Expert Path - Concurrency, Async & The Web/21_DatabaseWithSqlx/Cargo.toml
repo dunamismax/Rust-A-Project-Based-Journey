@@ -1,0 +1,32 @@
+[package]
+name = "21_databasewithsqlx"
+version = "0.1.0"
+edition = "2021"
+authors = ["dunamismax <dunamismax@tutamail.com>"]
+description = "Lesson 21: Connecting to a database and performing CRUD operations with sqlx."
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+# sqlx is our asynchronous SQL toolkit.
+# We specify the features we need: the tokio runtime, the sqlite driver,
+# and the macros for compile-time checked queries.
+sqlx = { version = "0.8.6", features = [
+    "runtime-tokio-native-tls",
+    "sqlite",
+    "macros",
+    "migrate",
+] }
+
+# Tokio is our async runtime.
+tokio = { version = "1", features = ["full"] }
+
+# Serde for data serialization (useful for our data model).
+serde = { version = "1.0", features = ["derive"] }
+
+# anyhow provides a simple, flexible error type.
+anyhow = "1.0"
+
+# dotenvy helps us load environment variables from a .env file.
+dotenvy = "0.15"
