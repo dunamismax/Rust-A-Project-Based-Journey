@@ -1,0 +1,12 @@
+[package]
+name = "2_variablesandprimitives"
+version = "0.1.0"
+edition = "2021"
+authors = ["dunamismax <dunamismax@tutamail.com>"]
+description = "Lesson 2: Variables, mutability, shadowing, and Rust's primitive data types."
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+# No external libraries are needed for this lesson.
