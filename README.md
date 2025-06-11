@@ -96,6 +96,7 @@ Connect with the author, **dunamismax**, on:
 *   **Bluesky:** [@dunamismax.bsky.social](https://bsky.app/profile/dunamismax.bsky.social)
 *   **Reddit:** [u/dunamismax](https://www.reddit.com/user/dunamismax)
 *   **Discord:** `dunamismax`
+*   **Signal Private Messenger:** `dunamismax.66`
 
 ## 📜 License
 
