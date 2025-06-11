@@ -1,0 +1,12 @@
+[package]
+name = "lifetimes"
+version = "0.1.0"
+edition = "2021"
+authors = ["dunamismax <dunamismax@tutamail.com>"]
+description = "Lesson 11: Ensuring references are always valid in complex scenarios with lifetime annotations."
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+# No external libraries are needed.

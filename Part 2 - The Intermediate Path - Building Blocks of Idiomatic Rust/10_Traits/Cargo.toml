@@ -1,0 +1,12 @@
+[package]
+name = "traits"
+version = "0.1.0"
+edition = "2021"
+authors = ["dunamismax <dunamismax@tutamail.com>"]
+description = "Lesson 10: Defining shared behavior and creating powerful, generic functions with traits."
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+# No external libraries are needed.

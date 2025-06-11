@@ -1,0 +1,12 @@
+[package]
+name = "basicconcurrency"
+version = "0.1.0"
+edition = "2021"
+authors = ["dunamismax <dunamismax@tutamail.com>"]
+description = "Lesson 18: The fundamentals of making your program do multiple things at once, safely."
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+# No external dependencies needed.

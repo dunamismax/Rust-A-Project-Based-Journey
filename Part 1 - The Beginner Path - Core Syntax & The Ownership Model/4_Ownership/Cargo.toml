@@ -1,0 +1,12 @@
+[package]
+name = "ownership"
+version = "0.1.0"
+edition = "2021"
+authors = ["dunamismax <dunamismax@tutamail.com>"]
+description = "Lesson 4: The Ownership Leap! Understanding Rust's core memory management model."
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+# No external libraries are needed for this lesson.
