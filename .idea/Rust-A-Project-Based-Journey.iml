@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="EMPTY_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Part 1 - The Beginner Path - Core Syntax &amp; The Ownership Model/1_HelloWorld/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part 1 - The Beginner Path - Core Syntax &amp; The Ownership Model/2_VariablesAndPrimitives/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part 1 - The Beginner Path - Core Syntax &amp; The Ownership Model/3_FunctionsAndControlFlow/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part 1 - The Beginner Path - Core Syntax &amp; The Ownership Model/4_Ownership/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part 1 - The Beginner Path - Core Syntax &amp; The Ownership Model/5_BorrowingAndSlices/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part 1 - The Beginner Path - Core Syntax &amp; The Ownership Model/6_Structs/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part 2 - The Intermediate Path - Building Blocks of Idiomatic Rust/10_Traits/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part 2 - The Intermediate Path - Building Blocks of Idiomatic Rust/11_Lifetimes/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part 2 - The Intermediate Path - Building Blocks of Idiomatic Rust/12_ModulesAndCrates/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part 2 - The Intermediate Path - Building Blocks of Idiomatic Rust/7_EnumsAndPatternMatching/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part 2 - The Intermediate Path - Building Blocks of Idiomatic Rust/8_Collections/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part 2 - The Intermediate Path - Building Blocks of Idiomatic Rust/9_ErrorHandling/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part 3 - The Advanced Path - The Modern Rust Ecosystem/13_Testing/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part 3 - The Advanced Path - The Modern Rust Ecosystem/14_FileIO/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part 3 - The Advanced Path - The Modern Rust Ecosystem/15_ClosuresAndIterators/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part 3 - The Advanced Path - The Modern Rust Ecosystem/16_SmartPointers/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part 3 - The Advanced Path - The Modern Rust Ecosystem/17_WorkingWithJSON/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part 4 - The Expert Path - Concurrency, Async &amp; The Web/18_BasicConcurrency/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part 4 - The Expert Path - Concurrency, Async &amp; The Web/19_SharedStateConcurrency/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part 4 - The Expert Path - Concurrency, Async &amp; The Web/20_AsyncProgramming/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part 4 - The Expert Path - Concurrency, Async &amp; The Web/21_DatabaseWithSqlx/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part 4 - The Expert Path - Concurrency, Async &amp; The Web/22_SimpleWebAPI/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/Part 1 - The Beginner Path - Core Syntax &amp; The Ownership Model/1_HelloWorld/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Part 1 - The Beginner Path - Core Syntax &amp; The Ownership Model/2_VariablesAndPrimitives/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Part 1 - The Beginner Path - Core Syntax &amp; The Ownership Model/3_FunctionsAndControlFlow/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Part 1 - The Beginner Path - Core Syntax &amp; The Ownership Model/4_Ownership/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Part 1 - The Beginner Path - Core Syntax &amp; The Ownership Model/5_BorrowingAndSlices/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Part 1 - The Beginner Path - Core Syntax &amp; The Ownership Model/6_Structs/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Part 2 - The Intermediate Path - Building Blocks of Idiomatic Rust/10_Traits/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Part 2 - The Intermediate Path - Building Blocks of Idiomatic Rust/11_Lifetimes/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Part 2 - The Intermediate Path - Building Blocks of Idiomatic Rust/12_ModulesAndCrates/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Part 2 - The Intermediate Path - Building Blocks of Idiomatic Rust/7_EnumsAndPatternMatching/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Part 2 - The Intermediate Path - Building Blocks of Idiomatic Rust/8_Collections/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Part 2 - The Intermediate Path - Building Blocks of Idiomatic Rust/9_ErrorHandling/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Part 3 - The Advanced Path - The Modern Rust Ecosystem/13_Testing/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Part 3 - The Advanced Path - The Modern Rust Ecosystem/14_FileIO/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Part 3 - The Advanced Path - The Modern Rust Ecosystem/15_ClosuresAndIterators/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Part 3 - The Advanced Path - The Modern Rust Ecosystem/16_SmartPointers/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Part 3 - The Advanced Path - The Modern Rust Ecosystem/17_WorkingWithJSON/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Part 4 - The Expert Path - Concurrency, Async &amp; The Web/18_BasicConcurrency/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Part 4 - The Expert Path - Concurrency, Async &amp; The Web/19_SharedStateConcurrency/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Part 4 - The Expert Path - Concurrency, Async &amp; The Web/20_AsyncProgramming/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Part 4 - The Expert Path - Concurrency, Async &amp; The Web/21_DatabaseWithSqlx/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Part 4 - The Expert Path - Concurrency, Async &amp; The Web/22_SimpleWebAPI/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

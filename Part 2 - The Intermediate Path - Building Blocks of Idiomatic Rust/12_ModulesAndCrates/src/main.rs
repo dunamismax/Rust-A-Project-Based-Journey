@@ -1,4 +1,4 @@
-use _12_modulesandcrates::get_random_number;
+use modulesandcrates::get_random_number;
 /**
  * @file src/main.rs
  * @author dunamismax
@@ -24,8 +24,8 @@ use _12_modulesandcrates::get_random_number;
 // We use the `use` keyword to bring parts of our library into the local scope.
 // The path starts with the crate name. Because "12_modulesandcrates" is not a
 // valid Rust identifier, Cargo renames it to `_12_modulesandcrates` for use in code.
-use _12_modulesandcrates::network;
-use _12_modulesandcrates::network::client;
+use modulesandcrates::network;
+use modulesandcrates::network::client;
 
 fn main() {
     println!("--- Lesson 12: Modules and Crates ---\n");
